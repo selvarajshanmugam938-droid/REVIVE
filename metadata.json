@@ -1,0 +1,6 @@
+{
+  "name": "REVIVE - Rural Healthcare Access",
+  "description": "Healthcare, Reimagined: Connecting rural communities to medicines, hospital beds, blood banks, organ centers, referrals, voice navigation, and IoT monitoring.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
